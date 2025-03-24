@@ -41,4 +41,4 @@ Monthly Booking Trends
 Monthly trends segmented by borough for Entire home/apartment listings.
 
 🖼️ Dashboard Snapshot
-
+![Airbnb Dashboard](./images/airbnb_dashboard.png)

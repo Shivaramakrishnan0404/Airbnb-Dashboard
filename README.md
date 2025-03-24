@@ -1,5 +1,5 @@
 This interactive Airbnb NYC Dashboard presents a detailed analysis of Airbnb listings across New York City’s boroughs. It offers data-driven insights into host activity, pricing, reviews, and neighborhood-level performance.
-
+Link to the Dashboard: (https://public.tableau.com/app/profile/shivaramakrishnan.rajendran/viz/AirbnbDashboard_17428354627050/Dashboard1)
 📡 Data Source
 The dataset used in this dashboard was retrieved via the Airbnb public API, enabling real-time access to listing data, reviews, pricing, and geolocation details. The API provided data across all five boroughs of NYC, which was then processed and visualized for trend discovery and storytelling.
 

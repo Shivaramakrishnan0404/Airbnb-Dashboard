@@ -1,3 +1,4 @@
+# Airbnb Dashboard
 This interactive Airbnb NYC Dashboard presents a detailed analysis of Airbnb listings across New York City’s boroughs. It offers data-driven insights into host activity, pricing, reviews, and neighborhood-level performance.
 Link to the Dashboard: (https://public.tableau.com/app/profile/shivaramakrishnan.rajendran/viz/AirbnbDashboard_17428354627050/Dashboard1)
 

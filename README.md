@@ -41,4 +41,5 @@ Monthly Booking Trends
 Monthly trends segmented by borough for Entire home/apartment listings.
 
 🖼️ Dashboard Snapshot
-![Airbnb-Dashboard](./Airbnb Dashboard.png)
+![Airbnb NYC Dashboard](Airbnb%20Dashboard.png)
+
